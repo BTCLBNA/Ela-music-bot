@@ -45,7 +45,7 @@ console.log('\x1b[32m%s\x1b[0m', `|    🌼 Logged in as ${client.user.username}
 
 const serverCount = client.guilds.cache.size;
 setInterval(() => client.user.setActivity({ 
-  name:`𝓞𝓔 OFFICIALECHOS`, 
+  name:`𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝙀𝘾𝙃𝙊𝙎`, 
   type: ActivityType.Listening }), 10000);
 client.errorLog = config.errorLog
   
